@@ -101,7 +101,6 @@ Strawberry stands at the forefront of HoloFi technology, offering a robust platf
 
 **FOUNDER**: Lucas Januário do Nascimento
 
-![Holo Ether Logo](Z.JPEG)
 
 ---
 
